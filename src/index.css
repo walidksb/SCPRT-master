@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*---- FAQ ----*/
+.immgline {
+  height: 800px;
+  width: 30px;
+}
+.immg {
+  width: 100px;
+}
+.container {
+  display : flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.container1 {
+  padding-top: 500px;
+  display : flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container2 {
+  padding-top: 500px;
+  height: max-content;
+  display : flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.div1{
+  width:1200px;
+  display: block;
+  padding-right: 40px;
+  border-radius: 40px;
+  font-size: 3rem;
+  color: white;
+  padding:15px 40px; 
+  background-color: #595656d8;
+  margin-bottom: 30px;
+}
+.div2{
+  width:1200px;
+  display: block;
+  padding-right: 40px;
+  border-radius: 40px;
+  font-size: 3rem;
+  color: white;
+  padding:30px 40px; 
+  background-color: #595656d8;
+  margin-bottom: 50px;
+}
+.div3{
+  width:1200px;
+  display: block;
+  padding-right: 40px;
+  border-radius: 40px;
+  font-size: 3rem;
+  color: white;
+  padding:15px 40px; 
+  background-color: #595656d8;
+  margin-bottom: 50px;
+}
+.div4{
+  width:1200px;
+  display: block;
+  padding-right: 40px;
+  border-radius: 40px;
+  font-size: 3rem;
+  color: white;
+  padding:15px 40px; 
+  background-color: #595656d8;
+  margin-bottom: 50px;
+}
+.div5{
+  width:1200px;
+  display: block;
+  padding-right: 40px;
+  border-radius: 40px;
+  font-size: 3rem;
+  color: white;
+  padding:15px 40px; 
+  background-color: #595656d8;
+  margin-bottom: 50px;
+}
+
+/*----  Faq ----*/
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
